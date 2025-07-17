@@ -1,0 +1,64 @@
+{
+  "alpha": 0.07208074629306793,
+  "H": 2,
+  "bands": [
+    {
+      "n_pairs": 2454,
+      "n_used": 491,
+      "r_model_vs_emp_lag_usedA": 0.20664606053251916,
+      "n_shockwave_pairs": 0,
+      "bins": [
+        0,
+        24
+      ],
+      "mean_absD_samples": 1.112758994102478,
+      "dyn_mean_absD_rush": 2.1957929134368896,
+      "dyn_mean_absD_offpeak": 2.1957929134368896
+    },
+    {
+      "n_pairs": 2454,
+      "n_used": 491,
+      "r_model_vs_emp_lag_usedA": 0.22614342456981504,
+      "n_shockwave_pairs": 376,
+      "shockwave_slope_min_per_km": -0.4511789993282543,
+      "implied_backprop_speed_kmh": 132.98491305963276,
+      "bins": [
+        24,
+        48
+      ],
+      "mean_absD_samples": 1.2849187850952148,
+      "dyn_mean_absD_rush": 0.8374228477478027,
+      "dyn_mean_absD_offpeak": 0.8374228477478027
+    },
+    {
+      "n_pairs": 2454,
+      "n_used": 491,
+      "r_model_vs_emp_lag_usedA": 0.15043457791999226,
+      "n_shockwave_pairs": 395,
+      "shockwave_slope_min_per_km": -0.1153281846207553,
+      "implied_backprop_speed_kmh": 520.2544390801238,
+      "bins": [
+        48,
+        73
+      ],
+      "mean_absD_samples": 1.432624101638794,
+      "dyn_mean_absD_rush": 1.0674608945846558,
+      "dyn_mean_absD_offpeak": 1.0674608945846558
+    },
+    {
+      "n_pairs": 2454,
+      "n_used": 491,
+      "r_model_vs_emp_lag_usedA": -0.06731797981870044,
+      "n_shockwave_pairs": 434,
+      "shockwave_slope_min_per_km": -0.06917714308425787,
+      "implied_backprop_speed_kmh": 867.3385069822832,
+      "bins": [
+        73,
+        97
+      ],
+      "mean_absD_samples": 1.51708984375,
+      "dyn_mean_absD_rush": 1.4395158290863037,
+      "dyn_mean_absD_offpeak": 1.4395158290863037
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "dataset": "ili_us_state",
+  "H": 8,
+  "variant": "CSLL2",
+  "N": 49,
+  "alpha": 0.19955873489379883,
+  "absA_edge_mean": 0.10356414021070237,
+  "absA_nonedge_mean": 0.0931421290882795,
+  "absA_edge_ratio": 1.111893632058089,
+  "r_D_vs_emplag_edges": 0.10302506295785438,
+  "n_edge_coupled_pairs": 45,
+  "r_netdelay_vs_peakweek": 0.27884877421713034,
+  "mean_absD_edges": 1.5564234256744385,
+  "mean_emplag_edges": 2.6333333333333333
+}
